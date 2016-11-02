@@ -1,0 +1,22 @@
+.hidden{
+    display: none;
+}
+.inactive{
+    color: grey;
+}
+
+.invoice-body{
+    
+}
+
+.line{
+    .delete{
+        color:red;
+    }
+}
+
+div#client{
+    .client-detail.editing{
+        display: none;
+    }
+}
